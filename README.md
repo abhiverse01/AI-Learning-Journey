@@ -1,6 +1,6 @@
 # AI-Learning-Journey
 
-![Repo-Wallpaper](Artificial%20Intelligence%281%29.png)
+![Repo-Wallpaper](ArtificialIntelligence(1).png)
 
 Welcome to the AI-Learning-Journey repository! This repository contains various Colab notebooks and Python files that served as my learning resources while delving into the core concepts of Artificial Intelligence (AI).
 
